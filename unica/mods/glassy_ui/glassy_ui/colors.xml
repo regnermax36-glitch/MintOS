@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Glassy UI Color Scheme -->
+    
+    <!-- Primary glassy colors with transparency -->
+    <color name="system_primary_color">#E6FFFFFF</color>
+    <color name="system_secondary_color">#B3FFFFFF</color>
+    <color name="system_accent_color">#FF6B9EFF</color>
+    
+    <!-- Background colors with glass effect -->
+    <color name="background_primary">#1A000000</color>
+    <color name="background_secondary">#33000000</color>
+    <color name="background_tertiary">#4D000000</color>
+    
+    <!-- Glass panel colors -->
+    <color name="glass_panel_light">#E6FFFFFF</color>
+    <color name="glass_panel_medium">#B3FFFFFF</color>
+    <color name="glass_panel_dark">#80FFFFFF</color>
+    
+    <!-- Status bar and navigation -->
+    <color name="status_bar_background">#66000000</color>
+    <color name="navigation_bar_background">#66000000</color>
+    
+    <!-- Notification panel glass -->
+    <color name="notification_panel_background">#E6FFFFFF</color>
+    <color name="notification_background">#B3FFFFFF</color>
+    <color name="quick_settings_background">#E6FFFFFF</color>
+    
+    <!-- Text colors for glass backgrounds -->
+    <color name="text_primary_glass">#FF000000</color>
+    <color name="text_secondary_glass">#B3000000</color>
+    <color name="text_tertiary_glass">#80000000</color>
+    
+    <!-- Button and control colors -->
+    <color name="button_background_glass">#80FFFFFF</color>
+    <color name="button_pressed_glass">#B3FFFFFF</color>
+    <color name="switch_track_glass">#4DFFFFFF</color>
+    <color name="switch_thumb_glass">#FFFFFFFF</color>
+    
+    <!-- Card and surface colors -->
+    <color name="card_background_glass">#E6FFFFFF</color>
+    <color name="surface_glass">#B3FFFFFF</color>
+    <color name="divider_glass">#33000000</color>
+    
+    <!-- Overlay colors -->
+    <color name="overlay_light_glass">#1AFFFFFF</color>
+    <color name="overlay_medium_glass">#33FFFFFF</color>
+    <color name="overlay_dark_glass">#4DFFFFFF</color>
+</resources>
