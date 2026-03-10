@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- NextWave Design Color Scheme -->
+    
+    <!-- Primary NextWave colors -->
+    <color name="nextwave_primary">#FF00D4FF</color>
+    <color name="nextwave_primary_variant">#FF0099CC</color>
+    <color name="nextwave_secondary">#FFFF6B9E</color>
+    <color name="nextwave_secondary_variant">#FFCC5577</color>
+    
+    <!-- Accent colors -->
+    <color name="nextwave_accent">#FF00FFAA</color>
+    <color name="nextwave_accent_variant">#FF00CC88</color>
+    
+    <!-- Background colors -->
+    <color name="nextwave_background">#FF0A0A0F</color>
+    <color name="nextwave_surface">#FF1A1A2E</color>
+    <color name="nextwave_surface_variant">#FF2A2A3E</color>
+    
+    <!-- Gradient colors -->
+    <color name="nextwave_gradient_start">#FF00D4FF</color>
+    <color name="nextwave_gradient_middle">#FFFF6B9E</color>
+    <color name="nextwave_gradient_end">#FF00FFAA</color>
+    
+    <!-- Text colors -->
+    <color name="nextwave_text_primary">#FFFFFFFF</color>
+    <color name="nextwave_text_secondary">#CCFFFFFF</color>
+    <color name="nextwave_text_tertiary">#99FFFFFF</color>
+    <color name="nextwave_text_accent">#FF00D4FF</color>
+    
+    <!-- Status bar and navigation -->
+    <color name="nextwave_status_bar">#FF0A0A0F</color>
+    <color name="nextwave_navigation_bar">#FF0A0A0F</color>
+    
+    <!-- Card and panel colors -->
+    <color name="nextwave_card_background">#FF1A1A2E</color>
+    <color name="nextwave_panel_background">#FF2A2A3E</color>
+    <color name="nextwave_dialog_background">#FF1A1A2E</color>
+    
+    <!-- Button colors -->
+    <color name="nextwave_button_primary">#FF00D4FF</color>
+    <color name="nextwave_button_secondary">#FFFF6B9E</color>
+    <color name="nextwave_button_disabled">#FF666666</color>
+    
+    <!-- Notification colors -->
+    <color name="nextwave_notification_background">#FF1A1A2E</color>
+    <color name="nextwave_notification_accent">#FF00D4FF</color>
+    
+    <!-- Quick settings colors -->
+    <color name="nextwave_qs_background">#FF1A1A2E</color>
+    <color name="nextwave_qs_tile_active">#FF00D4FF</color>
+    <color name="nextwave_qs_tile_inactive">#FF666666</color>
+    
+    <!-- Divider and border colors -->
+    <color name="nextwave_divider">#FF333344</color>
+    <color name="nextwave_border">#FF00D4FF</color>
+    
+    <!-- Error and warning colors -->
+    <color name="nextwave_error">#FFFF4444</color>
+    <color name="nextwave_warning">#FFFFAA00</color>
+    <color name="nextwave_success">#FF00FF88</color>
+    
+    <!-- Overlay colors -->
+    <color name="nextwave_overlay_light">#1AFFFFFF</color>
+    <color name="nextwave_overlay_medium">#33FFFFFF</color>
+    <color name="nextwave_overlay_dark">#4D000000</color>
+    
+    <!-- Glow effects -->
+    <color name="nextwave_glow_primary">#8000D4FF</color>
+    <color name="nextwave_glow_secondary">#80FF6B9E</color>
+    <color name="nextwave_glow_accent">#8000FFAA</color>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Galaxy Z Flip 5 Glassy UI Dimensions -->
+    
+    <!-- Glass effect dimensions -->
+    <dimen name="glass_blur_radius">25dp</dimen>
+    <dimen name="glass_elevation">12dp</dimen>
+    <dimen name="glass_corner_radius">16dp</dimen>
+    <dimen name="glass_border_width">1dp</dimen>
+    
+    <!-- Foldable specific dimensions -->
+    <dimen name="cover_display_width">260dp</dimen>
+    <dimen name="cover_display_height">512dp</dimen>
+    <dimen name="main_display_width">374dp</dimen>
+    <dimen name="main_display_height">812dp</dimen>
+    <dimen name="hinge_width">4dp</dimen>
+    <dimen name="flex_mode_divider_height">2dp</dimen>
+    
+    <!-- Enhanced UI spacing -->
+    <dimen name="enhanced_padding_small">12dp</dimen>
+    <dimen name="enhanced_padding_medium">20dp</dimen>
+    <dimen name="enhanced_padding_large">32dp</dimen>
+    <dimen name="enhanced_margin_small">8dp</dimen>
+    <dimen name="enhanced_margin_medium">16dp</dimen>
+    <dimen name="enhanced_margin_large">24dp</dimen>
+    
+    <!-- Modern button dimensions -->
+    <dimen name="modern_button_height">56dp</dimen>
+    <dimen name="modern_button_corner_radius">28dp</dimen>
+    <dimen name="modern_button_elevation">8dp</dimen>
+    
+    <!-- Card and panel dimensions -->
+    <dimen name="modern_card_corner_radius">20dp</dimen>
+    <dimen name="modern_card_elevation">12dp</dimen>
+    <dimen name="modern_panel_corner_radius">24dp</dimen>
+    <dimen name="modern_panel_elevation">16dp</dimen>
+    
+    <!-- Status bar and navigation -->
+    <dimen name="status_bar_height_portrait">32dp</dimen>
+    <dimen name="status_bar_height_landscape">24dp</dimen>
+    <dimen name="navigation_bar_height">56dp</dimen>
+    <dimen name="navigation_bar_height_landscape">48dp</dimen>
+    
+    <!-- Notification dimensions -->
+    <dimen name="notification_corner_radius">16dp</dimen>
+    <dimen name="notification_elevation">8dp</dimen>
+    <dimen name="notification_margin">12dp</dimen>
+    
+    <!-- Quick settings dimensions -->
+    <dimen name="qs_tile_size">72dp</dimen>
+    <dimen name="qs_tile_corner_radius">20dp</dimen>
+    <dimen name="qs_tile_elevation">6dp</dimen>
+    <dimen name="qs_tile_margin">8dp</dimen>
+    
+    <!-- Animation durations -->
+    <integer name="glass_animation_duration">300</integer>
+    <integer name="fold_animation_duration">400</integer>
+    <integer name="ui_transition_duration">250</integer>
+    
+    <!-- Text sizes for modern UI -->
+    <dimen name="modern_text_size_small">12sp</dimen>
+    <dimen name="modern_text_size_medium">16sp</dimen>
+    <dimen name="modern_text_size_large">20sp</dimen>
+    <dimen name="modern_text_size_xlarge">24sp</dimen>
+    
+    <!-- Icon sizes -->
+    <dimen name="modern_icon_size_small">20dp</dimen>
+    <dimen name="modern_icon_size_medium">24dp</dimen>
+    <dimen name="modern_icon_size_large">32dp</dimen>
+    <dimen name="modern_icon_size_xlarge">48dp</dimen>
+</resources>

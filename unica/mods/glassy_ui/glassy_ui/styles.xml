@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Glassy UI Styles -->
+    
+    <!-- Base glass style -->
+    <style name="GlassyBase">
+        <item name="android:background">@color/glass_panel_medium</item>
+        <item name="android:elevation">8dp</item>
+        <item name="android:translationZ">4dp</item>
+    </style>
+    
+    <!-- Glass panel style -->
+    <style name="GlassPanel" parent="GlassyBase">
+        <item name="android:background">@drawable/glass_panel_background</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:layout_margin">8dp</item>
+    </style>
+    
+    <!-- Glass card style -->
+    <style name="GlassCard" parent="GlassyBase">
+        <item name="android:background">@drawable/glass_card_background</item>
+        <item name="android:cornerRadius">12dp</item>
+        <item name="android:padding">12dp</item>
+    </style>
+    
+    <!-- Glass button style -->
+    <style name="GlassButton" parent="Widget.Material3.Button">
+        <item name="android:background">@drawable/glass_button_background</item>
+        <item name="android:textColor">@color/text_primary_glass</item>
+        <item name="android:elevation">4dp</item>
+        <item name="android:stateListAnimator">@animator/glass_button_animator</item>
+    </style>
+    
+    <!-- Glass text style -->
+    <style name="GlassText">
+        <item name="android:textColor">@color/text_primary_glass</item>
+        <item name="android:shadowColor">#80FFFFFF</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+    
+    <!-- Glass notification style -->
+    <style name="GlassNotification">
+        <item name="android:background">@drawable/glass_notification_background</item>
+        <item name="android:elevation">6dp</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:layout_margin">8dp</item>
+    </style>
+    
+    <!-- Glass quick settings style -->
+    <style name="GlassQuickSettings">
+        <item name="android:background">@drawable/glass_qs_background</item>
+        <item name="android:elevation">8dp</item>
+        <item name="android:padding">12dp</item>
+    </style>
+    
+    <!-- Glass dialog style -->
+    <style name="GlassDialog" parent="Theme.Material3.Dialog">
+        <item name="android:windowBackground">@drawable/glass_dialog_background</item>
+        <item name="android:windowElevation">16dp</item>
+        <item name="android:backgroundDimAmount">0.3</item>
+    </style>
+    
+    <!-- Glass navigation bar style -->
+    <style name="GlassNavigationBar">
+        <item name="android:background">@drawable/glass_navbar_background</item>
+        <item name="android:elevation">8dp</item>
+    </style>
+    
+    <!-- Glass status bar style -->
+    <style name="GlassStatusBar">
+        <item name="android:background">@drawable/glass_statusbar_background</item>
+        <item name="android:elevation">8dp</item>
+    </style>
+</resources>

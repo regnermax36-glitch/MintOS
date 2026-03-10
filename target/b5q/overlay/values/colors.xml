@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Galaxy Z Flip 5 Glassy UI Colors -->
+    
+    <!-- Primary system colors with glass effect -->
+    <color name="system_accent1_0">#00000000</color>
+    <color name="system_accent1_10">#E6001D36</color>
+    <color name="system_accent1_50">#E6006B9E</color>
+    <color name="system_accent1_100">#E600D4FF</color>
+    <color name="system_accent1_200">#B300D4FF</color>
+    <color name="system_accent1_300">#8000D4FF</color>
+    <color name="system_accent1_400">#4D00D4FF</color>
+    <color name="system_accent1_500">#1A00D4FF</color>
+    <color name="system_accent1_600">#0D00D4FF</color>
+    <color name="system_accent1_700">#0600D4FF</color>
+    <color name="system_accent1_800">#0300D4FF</color>
+    <color name="system_accent1_900">#0100D4FF</color>
+    <color name="system_accent1_1000">#FFFFFFFF</color>
+    
+    <!-- Secondary accent colors -->
+    <color name="system_accent2_0">#00000000</color>
+    <color name="system_accent2_10">#E6FF1D6B</color>
+    <color name="system_accent2_50">#E6FF6B9E</color>
+    <color name="system_accent2_100">#E6FF6B9E</color>
+    <color name="system_accent2_200">#B3FF6B9E</color>
+    <color name="system_accent2_300">#80FF6B9E</color>
+    <color name="system_accent2_400">#4DFF6B9E</color>
+    <color name="system_accent2_500">#1AFF6B9E</color>
+    <color name="system_accent2_600">#0DFF6B9E</color>
+    <color name="system_accent2_700">#06FF6B9E</color>
+    <color name="system_accent2_800">#03FF6B9E</color>
+    <color name="system_accent2_900">#01FF6B9E</color>
+    <color name="system_accent2_1000">#FFFFFFFF</color>
+    
+    <!-- Tertiary accent colors -->
+    <color name="system_accent3_0">#00000000</color>
+    <color name="system_accent3_10">#E600FF88</color>
+    <color name="system_accent3_50">#E600FFAA</color>
+    <color name="system_accent3_100">#E600FFAA</color>
+    <color name="system_accent3_200">#B300FFAA</color>
+    <color name="system_accent3_300">#8000FFAA</color>
+    <color name="system_accent3_400">#4D00FFAA</color>
+    <color name="system_accent3_500">#1A00FFAA</color>
+    <color name="system_accent3_600">#0D00FFAA</color>
+    <color name="system_accent3_700">#0600FFAA</color>
+    <color name="system_accent3_800">#0300FFAA</color>
+    <color name="system_accent3_900">#0100FFAA</color>
+    <color name="system_accent3_1000">#FFFFFFFF</color>
+    
+    <!-- Neutral colors with transparency -->
+    <color name="system_neutral1_0">#00000000</color>
+    <color name="system_neutral1_10">#E6FFFFFF</color>
+    <color name="system_neutral1_50">#B3FFFFFF</color>
+    <color name="system_neutral1_100">#80FFFFFF</color>
+    <color name="system_neutral1_200">#66FFFFFF</color>
+    <color name="system_neutral1_300">#4DFFFFFF</color>
+    <color name="system_neutral1_400">#33FFFFFF</color>
+    <color name="system_neutral1_500">#1AFFFFFF</color>
+    <color name="system_neutral1_600">#0DFFFFFF</color>
+    <color name="system_neutral1_700">#06FFFFFF</color>
+    <color name="system_neutral1_800">#03FFFFFF</color>
+    <color name="system_neutral1_900">#01FFFFFF</color>
+    <color name="system_neutral1_1000">#FFFFFFFF</color>
+    
+    <!-- Foldable specific colors -->
+    <color name="foldable_cover_display_background">#E6000000</color>
+    <color name="foldable_main_display_background">#1A000000</color>
+    <color name="foldable_hinge_indicator">#FF00D4FF</color>
+    <color name="flex_mode_divider">#8000D4FF</color>
+    
+    <!-- Glass effect overlays -->
+    <color name="glass_overlay_light">#1AFFFFFF</color>
+    <color name="glass_overlay_medium">#33FFFFFF</color>
+    <color name="glass_overlay_dark">#4DFFFFFF</color>
+    <color name="glass_blur_background">#B3FFFFFF</color>
+</resources>
